@@ -1,9 +1,17 @@
 <div align="center">
-  <a href="https://adapter-onebot.netlify.app/"><img src="https://s2.loli.net/2022/06/16/pZ1vW98Z9I7OU4L.png" width="210" height="210" alt="NoneBotPluginLogo"></a>
-  <a href="https://nonebot.dev/"><img src="https://s2.loli.net/2022/06/16/UmE19vW9I7OU4L.png" width="400" height="100" alt="NoneBotPluginText"></a>
-</div>
+    <a href="https://v2.nonebot.dev/store">
+    <img src="https://raw.githubusercontent.com/fllesser/nonebot-plugin-template/refs/heads/resource/.docs/NoneBotPlugin.svg" width="310" alt="logo"></a>
 
-<div align="center">
+## ✨ nonebot-plugin-fortnite ✨
+[![LICENSE](https://img.shields.io/github/license/fllesser/nonebot-plugin-fortnite.svg)](./LICENSE)
+[![pypi](https://img.shields.io/pypi/v/nonebot-plugin-fortnite.svg)](https://pypi.python.org/pypi/nonebot-plugin-fortnite)
+[![python](https://img.shields.io/badge/python-3.10|3.11|3.12|3.13|3.14-blue.svg)](https://www.python.org)
+[![uv](https://img.shields.io/badge/package%20manager-uv-black?style=flat-square&logo=uv)](https://github.com/astral-sh/uv)
+<br/>
+[![ruff](https://img.shields.io/badge/code%20style-ruff-black?style=flat-square&logo=ruff)](https://github.com/astral-sh/ruff)
+[![pre-commit](https://results.pre-commit.ci/badge/github/fllesser/nonebot-plugin-fortnite/master.svg)](https://results.pre-commit.ci/latest/github/fllesser/nonebot-plugin-fortnite/master)
+[![codecov](https://codecov.io/gh/fllesser/nonebot-plugin-fortnite/graph/badge.svg?token=2F8LMGXW1O)](https://codecov.io/gh/fllesser/nonebot-plugin-fortnite)
+</div>
 
 # nonebot-plugin-setu-now2
 
