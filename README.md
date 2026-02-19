@@ -1,19 +1,17 @@
 <div align="center">
     <a href="https://v2.nonebot.dev/store">
     <img src="https://raw.githubusercontent.com/fllesser/nonebot-plugin-template/refs/heads/resource/.docs/NoneBotPlugin.svg" width="310" alt="logo"></a>
-## ✨ nonebot-plugin-fortnite ✨
 </div>
 
 # nonebot-plugin-setu-now2
 
-_✨ 基于 NoneBot2 的色图/图片搜索插件 ✨_
+_✨ 基于 NoneBot2 的色图搜索插件 ✨_
 
 <a href="./LICENSE">
     <img src="https://img.shields.io/github/license/KanamiQwQ/nonebot_plugin_setu_now2.svg" alt="license">
 </a>
 <a href="https://pypi.python.org/pypi/nonebot-plugin-setu-now2">
     <img src="https://img.shields.io/pypi/v/nonebot-plugin-setu-now2.svg" alt="pypi">
-</a>
 <img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="python">
 <img src="https://img.shields.io/badge/nonebot-2.2.0+-red.svg" alt="nonebot">
 
