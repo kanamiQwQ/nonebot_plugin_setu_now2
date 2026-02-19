@@ -1,9 +1,7 @@
 <div align="center">
     <a href="https://v2.nonebot.dev/store">
     <img src="https://raw.githubusercontent.com/fllesser/nonebot-plugin-template/refs/heads/resource/.docs/NoneBotPlugin.svg" width="310" alt="logo"></a>
-
 ## ✨ nonebot-plugin-fortnite ✨
-
 </div>
 
 # nonebot-plugin-setu-now2
@@ -23,7 +21,7 @@ _✨ 基于 NoneBot2 的色图/图片搜索插件 ✨_
 
 ## 📖 介绍
 
-`nonebot-plugin-setu-now2` 是一个用于 NoneBot2 的插件，主要功能包括图片搜索、色图发送及相关消息处理。它支持异步请求，适配 OneBot V11 协议。
+`nonebot-plugin-setu-now2` 一个简单的不能再简单的setu插件半成品（在等等完善了再上插件商店），适配 OneBot V11 协议。
 
 ## 💿 安装
 
