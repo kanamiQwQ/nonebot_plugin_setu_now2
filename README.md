@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/fllesser/nonebot-plugin-template/refs/heads/resource/.docs/NoneBotPlugin.svg" width="310" alt="logo"></a>
 </div>
 
-# nonebot-plugin-setu-now2
+## ✨ nonebot-plugin-setu-now2 ✨
 
 _✨ 基于 NoneBot2 的色图搜索插件 ✨_
 
